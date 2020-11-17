@@ -1,0 +1,1 @@
+db.col001.insert({x:"hola clase"})
